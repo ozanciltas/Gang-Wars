@@ -7,6 +7,11 @@ NOTE: I cannot share the source code because the paid assets included in the sou
 
 The player freely roams the city, interacting with surrounding objects and other AI teams. The main goal of the game is to defeat rival AI factions and gain ultimate control of the city.
 
+
+https://github.com/user-attachments/assets/9d3acbe1-0c86-4fe5-8ac7-d9031235b997
+
+---
+
 ### Core Mechanics
 
 1. **Team Growth:**  
@@ -38,11 +43,6 @@ The player freely roams the city, interacting with surrounding objects and other
 - **Programming Language:** All game mechanics and AI dynamics are coded in C#.  
 - **AI:** Enemy teams respond dynamically to the player's actions and perform strategic attacks.  
 
-## Screenshots
 
-https://github.com/user-attachments/assets/9d3acbe1-0c86-4fe5-8ac7-d9031235b997
-
-
----
 
 
