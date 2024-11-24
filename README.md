@@ -39,6 +39,11 @@ Oyuncu, şehirde serbestçe dolaşırken çevresindeki nesnelerle ve diğer yapa
 - **Yapay Zeka:** Düşman ekipleri, oyuncunun hamlelerine dinamik tepkiler verir ve stratejik saldırılar gerçekleştirir.  
 
 ## Ekran Görüntüleri
+
+
+https://github.com/user-attachments/assets/9d3acbe1-0c86-4fe5-8ac7-d9031235b997
+
+
 ---
 
 
