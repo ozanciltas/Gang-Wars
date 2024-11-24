@@ -1,3 +1,4 @@
+NOTE: I cannot share the source code because the paid assets included in the source code.
 # Gang Wars
 
 **Gang Wars** is a strategy and action game set in a city map where players engage in battles against three different AI factions while using the environment to grow their teams.
