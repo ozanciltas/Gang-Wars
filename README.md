@@ -1,45 +1,43 @@
 # Gang Wars
 
-**Gang Wars**, bir şehir haritasında geçen, strateji ve aksiyon unsurlarını birleştiren bir oyun. Oyuncular, çevredeki nesneleri kullanarak ekiplerini büyütürken 3 farklı yapay zekaya karşı mücadele eder.  
+**Gang Wars** is a strategy and action game set in a city map where players engage in battles against three different AI factions while using the environment to grow their teams.
 
-## Oyun Özeti
+## Game Overview
 
-Oyuncu, şehirde serbestçe dolaşırken çevresindeki nesnelerle ve diğer yapay zeka ekipleriyle etkileşime girer. Oyunun temel amacı, diğer yapay zeka gruplarını yenmek ve şehirde mutlak hâkimiyet sağlamaktır.  
+The player freely roams the city, interacting with surrounding objects and other AI teams. The main goal of the game is to defeat rival AI factions and gain ultimate control of the city.
 
-### Temel Mekanikler  
+### Core Mechanics
 
-1. **Ekip Büyütme:**  
-   - Şehirdeki nesnelere yaklaşarak onları kırabilirsiniz.  
-   - Kırılan nesnelerden, kontrol ettiğiniz karakterin daha küçük versiyonları çıkar ve ekibinize katılır.  
-   - Ekibiniz, karakterinizin etrafında bir çember oluşturur ve büyüdükçe daha etkileyici hale gelir.  
+1. **Team Growth:**  
+   - Approach and break objects found in the city.  
+   - Broken objects release smaller versions of your character, which join your team.  
+   - Your team forms a circle around your character and becomes more powerful as it grows.  
 
-2. **Silah ve Geliştirmeler:**  
-   - Şehirde çeşitli gelişmiş silahlar bulunabilir.  
-   - Her silah veya geliştirme, karakterin görüş açısını genişletir ve vuruş gücünü artırır.  
+2. **Weapons and Upgrades:**  
+   - Various advanced weapons can be found in the city.  
+   - Each weapon or upgrade increases the character's field of view and boosts attack power.  
 
-3. **Düşman Yapay Zekalar:**  
-   - Şehirde üç farklı yapay zeka ekibi bulunur.  
-   - Düşmanlarla belirli bir mesafeye yaklaştığınızda saldırılar başlar.  
-   - Bir yapay zekayı yendiğinizde, onun ekibi de sizin tarafınıza katılır.  
+3. **Enemy AI Factions:**  
+   - The city contains three different AI factions.  
+   - When you approach an enemy, they will start to attack.  
+   - Defeating an AI faction causes their team to join your side.  
 
-4. **Oyun Sonu:**  
-   - Tüm yapay zeka ekipleri yenildiğinde oyun sona erer ve oyuncu galip gelir.  
+4. **Game End:**  
+   - The game ends when all enemy AI factions are defeated, and the player is victorious.  
 
-## Oyun Akışı  
+## Gameplay Flow
 
-1. Haritada stratejik bir şekilde dolaşarak hem ekibinizi büyütmeli hem de düşman ekiplerle karşılaşmalısınız.  
-2. Daha güçlü silahlar ve ekip üyeleri edinerek avantaj sağlamalısınız.  
-3. Her galibiyet, ekibinizin gücünü katlar ve şehirdeki kontrolünüzü artırır.  
+1. Strategically move around the map to grow your team and encounter enemy factions.  
+2. Gain stronger weapons and team members to gain the upper hand.  
+3. Every victory strengthens your team and increases your control over the city.  
 
-## Teknik Detaylar  
+## Technical Details  
 
-- **Oyun Motoru:** Oyun, Unity kullanılarak geliştirilmiştir.  
-- **Programlama Dili:** Tüm oyun mekanikleri ve yapay zeka dinamikleri, C# ile kodlanmıştır.  
-- **Oyun Haritası:** Şehir haritası, oyuncuların özgürce dolaşabileceği ve çeşitli nesnelerle etkileşime geçebileceği şekilde tasarlanmıştır.  
-- **Yapay Zeka:** Düşman ekipleri, oyuncunun hamlelerine dinamik tepkiler verir ve stratejik saldırılar gerçekleştirir.  
+- **Game Engine:** The game was developed using Unity.  
+- **Programming Language:** All game mechanics and AI dynamics are coded in C#.  
+- **AI:** Enemy teams respond dynamically to the player's actions and perform strategic attacks.  
 
-## Ekran Görüntüleri
-
+## Screenshots
 
 https://github.com/user-attachments/assets/9d3acbe1-0c86-4fe5-8ac7-d9031235b997
 
